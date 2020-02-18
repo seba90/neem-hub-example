@@ -1,0 +1,4 @@
+[core]
+    remote = neemhub
+['remote "neemhub"']
+    url = hdfs://192.168.102.40:9000
